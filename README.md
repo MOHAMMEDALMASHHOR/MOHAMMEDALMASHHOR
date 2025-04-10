@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **secret project**
 
 <div align="center">
-<img src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=826"style="width: 5% />
+<img height="400"src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg" />
 </div> 
 
 ###
