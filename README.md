@@ -13,7 +13,7 @@
 ###
 
 
-<h3 align="center">A third year software engineer at Samsun University and Czestochowa University of Technology, I am intereased in AI</h3>
+<h3 align="center">A third year software engineer at Samsun University and Czestochowa University of Technology. A passionate educator, self-taught programmer, and lifelong learner. With a strong background in teaching, programming, and information security, I enjoy sharing knowledge and solving complex problems through analytical thinking and creative approaches.</h3>
 
 - 🔭 I’m currently working on **secret project**
 
